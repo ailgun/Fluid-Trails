@@ -71,7 +71,7 @@ PShader blur;
         
            noStroke();
            
-           fill(0,0,0,100);
+           fill(0,0,0,.01);
            rect(0,0,width,height);
 
         
